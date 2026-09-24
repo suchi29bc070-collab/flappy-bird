@@ -1,0 +1,6 @@
+{
+  "name": "Flappy Bird Canvas",
+  "description": "A complete standalone retro Flappy Bird game built with HTML5 Canvas and vanilla JavaScript physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
